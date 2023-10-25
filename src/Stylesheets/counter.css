@@ -1,0 +1,18 @@
+.Counter-div{
+    min-width: 350px;
+    height: 350px;
+    font-size: 160px;
+    padding: 25px;
+    color: antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid white;
+    margin-bottom: 40px;
+}
+.Counter-div:hover{
+    color: blanchedalmond;
+    border-color: blanchedalmond;
+    scale: 1.005;
+}
