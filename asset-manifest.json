@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/click-counter-react/static/css/main.d91cefbb.css",
-    "main.js": "/click-counter-react/static/js/main.1b98ddbf.js",
-    "static/media/soria-logo.png": "/click-counter-react/static/media/soria-logo.da0a53f3e1cccd2247c6.png",
-    "index.html": "/click-counter-react/index.html",
-    "main.d91cefbb.css.map": "/click-counter-react/static/css/main.d91cefbb.css.map",
-    "main.1b98ddbf.js.map": "/click-counter-react/static/js/main.1b98ddbf.js.map"
+    "main.css": "/click-counter-react/public/index.html/static/css/main.d91cefbb.css",
+    "main.js": "/click-counter-react/public/index.html/static/js/main.92f22e49.js",
+    "static/media/soria-logo.png": "/click-counter-react/public/index.html/static/media/soria-logo.da0a53f3e1cccd2247c6.png",
+    "index.html": "/click-counter-react/public/index.html/index.html",
+    "main.d91cefbb.css.map": "/click-counter-react/public/index.html/static/css/main.d91cefbb.css.map",
+    "main.92f22e49.js.map": "/click-counter-react/public/index.html/static/js/main.92f22e49.js.map"
   },
   "entrypoints": [
     "static/css/main.d91cefbb.css",
-    "static/js/main.1b98ddbf.js"
+    "static/js/main.92f22e49.js"
   ]
 }
